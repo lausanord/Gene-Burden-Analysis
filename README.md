@@ -1,7 +1,6 @@
 # Gene-Burden-Analysis
 
-#### We show the development of different tools to obtain the necessary files to carry out the CoCoRV (Consistent summary Count based Rare Variant burden test) framework, developed by Wenan Chen and Saima Sultana Tithi.
-
+#### We show the development of different tools to obtain the necessary files to carry out the CoCoRV (Consistent summary Count based Rare Variant burden test) framework.
 ## 1. Samples preparation
 Once we have our cases stored in VCF files, we proceed to aggregate the individual VCF files into a single comprehensive VCF file using the merge_VCF.sh script. 
 
